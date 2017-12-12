@@ -1,5 +1,4 @@
-// Motor Code Adopted From: http://www.instructables.com/id/Control-your-motors-with-L293D-and-Arduino/?ALLSTEPS
-// Ping Code Adopted From: https://bitbucket.org/teckel12/arduino-new-ping/wiki/Home#!single-pin-sketch
+
 
 #include <NewPing.h>
 
